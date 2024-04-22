@@ -12,11 +12,11 @@ Copy / move the files to the system SD card.
 
 ***The existing files should be backed up beforehand, as they may be overwritten!***
 
-1. `logo.bmp` (startup image) [*findable in `\Boot-Screens` subfolders*]
+1. `logo.bmp` (startup image) [*in `\Boot-Screens` subfolders*]
 	to the root of the `BOOT` partition. 
 	- If there is a folder `BMPs` in the `BOOT` partition, take the desired image from the folder `BMPs` or the entire folder of the repostitory and paste it into the folder of the same name in the `BOOT` partition.
 	
-2. `loading.jpg` (loading image before the game starts) [*can be found in `\Loading Screens` subfolders*]
+2. `loading.jpg` (loading image before the game starts) [*in `\Loading Screens` subfolders*]
 	to `EASYROMS:\launchimages` in the `EASYROMS` partition.
 
 ## I will probably update this repostitory from time to time, so have fun browsing and then playing.
