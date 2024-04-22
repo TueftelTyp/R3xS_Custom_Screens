@@ -7,7 +7,7 @@ Both folders have subfolders, each with the name of the image - to get a better 
 [![treeview](https://github.com/TueftelTyp/R3xS_Custom_Screens/blob/main/treeview.png?raw=true "treeview")](https://github.com/TueftelTyp/R3xS_Custom_Screens/blob/main/treeview.png?raw=true "treeview")
 ## Installation
 Copy / move the files to the system SD card.
-The existing files should be backed up beforehand, as they may be overwritten!
+***The existing files should be backed up beforehand, as they may be overwritten!***
 
 1. `logo.bmp` (startup image) findable in `\Boot-Screens` subfolders
 	to the root of the `BOOT` partition.
