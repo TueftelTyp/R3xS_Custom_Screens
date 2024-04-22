@@ -20,3 +20,4 @@ Copy / move the files to the system SD card.
 	to `EASYROMS:\launchimages` in the `EASYROMS` partition.
 
 ## I will probably update this repostitory from time to time, so have fun browsing and then playing.
+- update 4|22|2024: i have just added the original screens: `\defaultScreens`
