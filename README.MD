@@ -21,3 +21,4 @@ Copy / move the files to the system SD card.
 
 ## I will probably update this repostitory from time to time, so have fun browsing and then playing.
 - update 4|22|2024: i have just added the original screens: `\defaultScreens`
+- update 4|23|2024: added Boot / Loading: abxy, abxy2, fight, r36scontrol
